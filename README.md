@@ -12,8 +12,7 @@
 
 ## Technologies Used
 
-- **Programming Language**: C#  
-- **Framework**: .NET Framework  
+- **Programming Language**: C#   
 - **UI**: Windows Forms  
 - **Database**: SQL Server  
 
